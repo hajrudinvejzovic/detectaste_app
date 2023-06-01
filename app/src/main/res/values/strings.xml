@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">DetectasteProject</string>
+    <string name="Welcome">Welcome</string>
+    <string name="ToOur">to Detectaste!</string>
+    <string name="Discover">Discover over 1200 tastes!</string>
+    <string name ="Pizza">PIZZA</string>
+    <string name="Shadow">SHADOW</string>
+    <string name="ShadowUpside">SHADOWUPSIDE</string>
+    <string name = "ButtonOne"> Login</string>
+    <string name = "ButtonTwo"> Sign up </string>
+    <string name ="Login">Login</string>
+    <string name ="emailAddress">Email address </string>
+    <string name = "username">Username</string>
+    <string name = "Password">Password</string>
+    <string name ="DontHaveAcc"> Dont have account ? </string>
+    <string name="SignUp">Sign Up</string>
+    <string name ="MainScreenText1">What would you like</string>
+    <string name="MainScreenText2">to cook today ?</string>
+    <string name="SearchAnyRecipes">Search any recipes</string>
+    <string name="Username">Username</string>
+    <string name="Allrecipes">All recipes</string>
+    <string name = "Categories">Categories</string>
+    <string name= "Lunch">Lunch</string>
+    <string name = "Dinner">Dinner</string>
+    <string name ="Dessert">Dessert</string>
+    <string name = "Breakfast">Breakfast</string>
+</resources>
